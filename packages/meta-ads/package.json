@@ -43,7 +43,7 @@
     "url": "git+https://github.com/Santhosh785/Meta-ads.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
+    "access": "public"
   },
   "devDependencies": {
     "@types/node": "^20.14.0",
